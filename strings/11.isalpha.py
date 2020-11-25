@@ -1,0 +1,10 @@
+bibin = 'name'
+print(bibin.isalpha())
+print(bibin.isdigit())
+print(bibin.isascii())
+print(bibin.isidentifier())
+print(bibin.isprintable())
+print(bibin.isupper())
+print(bibin.isnumeric())
+print(bibin.isalnum())
+print(bibin.islower())
