@@ -1,0 +1,1 @@
+print("HELLO", __name__)
