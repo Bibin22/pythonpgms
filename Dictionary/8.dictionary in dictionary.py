@@ -3,7 +3,7 @@ details = {
              'age':23,
              'dob':'23/07/1997',
              'place':'Kothamnagalam'},
-    'ammu':{
+    'nnn':{
         'name':'bibinn',
         'age':22,
         'dob':'12/03/1997',
