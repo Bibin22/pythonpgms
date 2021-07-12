@@ -4,10 +4,10 @@ details = {
              'dob':'23/07/1997',
              'place':'Kothamnagalam'},
     'ammu':{
-        'name':'ammu',
+        'name':'bibinn',
         'age':22,
-        'dob':'12/03/1998',
-        'place':'Ettumanur',
+        'dob':'12/03/1997',
+        'place':'kk',
     }
 }
 print(details)
